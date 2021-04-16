@@ -5,6 +5,7 @@
 
 ## BIOS/OpenCore VERSION
 BIOS: 1802
+
 Opencore: 0.6.6
 
 ## KEXTS

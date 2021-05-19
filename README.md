@@ -17,5 +17,9 @@ Opencore: 0.6.6
 
 
 
+## Not Working
+Bluetooth
+Apple iCloud
+
 
 
